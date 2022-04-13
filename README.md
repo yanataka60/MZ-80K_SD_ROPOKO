@@ -16,7 +16,13 @@
 
 ![SDモード](https://github.com/yanataka60/MZ-80K_SD_ROPOKO/blob/main/JPEG/SD%E3%83%A2%E3%83%BC%E3%83%89.JPG)
 
+![ファイル選択](https://github.com/yanataka60/MZ-80K_SD_ROPOKO/blob/main/JPEG/%E3%83%AD%E3%83%9D%E3%82%B3(%E4%BD%93%E9%A8%93%E7%89%88)%E3%82%92%E9%81%B8%E6%8A%9E.JPG)
+
+![LOADING](https://github.com/yanataka60/MZ-80K_SD_ROPOKO/blob/main/JPEG/LOADING.JPG)
+
 　起動したらMZ-80K_SDをCMTモードに切り替えます。
+
+![起動](https://github.com/yanataka60/MZ-80K_SD_ROPOKO/blob/main/JPEG/%E3%83%AD%E3%83%9D%E3%82%B3(%E4%BD%93%E9%A8%93%E7%89%88)%E8%B5%B7%E5%8B%95.JPG)
 
 ![CMTモード](https://github.com/yanataka60/MZ-80K_SD_ROPOKO/blob/main/JPEG/%E3%83%AD%E3%83%9D%E3%82%B3%E3%83%A2%E3%83%BC%E3%83%89(CMT%E3%83%A2%E3%83%BC%E3%83%89).JPG)
 
