@@ -5,7 +5,7 @@
 ## 準備
 　IPL-ROMにMZ-80K_SD用のパッチが当たっていることが前提です。
 
-　ROMフォルダの「FD_rom_ROPOKO.BIN」を2764等のROMに焼き、通常のMZ-80K_SDのROMと交換します。
+　ROMフォルダの「FD_rom_ROPOKO.BIN」を2764等のROMに焼き、MZ-80K_SDの通常のROMと交換します。
 
 ## 使い方
 　MZ-80K_SDをSDモードに切り替えてロポコを起動します。
