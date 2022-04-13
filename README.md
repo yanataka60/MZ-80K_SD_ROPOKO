@@ -1,1 +1,2 @@
-# MZ-80K_SD_ROPOKO
+# ROPOKOをMZ-700実機で遊びたい
+
