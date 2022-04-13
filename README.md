@@ -10,7 +10,11 @@
 ## 使い方
 　MZ-80K_SDをSDモードに切り替えてロポコを起動します。
 
+![SDモード](https://github.com/yanataka60/MZ-80K_SD_ROPOKO/blob/main/JPEG/SD%E3%83%A2%E3%83%BC%E3%83%89.JPG)
+
 　起動したらMZ-80K_SDをCMTモードに切り替えます。
+
+![CMTモード](https://github.com/yanataka60/MZ-80K_SD_ROPOKO/blob/main/JPEG/%E3%83%AD%E3%83%9D%E3%82%B3%E3%83%A2%E3%83%BC%E3%83%89(CMT%E3%83%A2%E3%83%BC%E3%83%89).JPG)
 
 　後は、ロポコの説明書に従ってセーブ・ロードを行います。
 
