@@ -7,6 +7,8 @@
 
 　ROMフォルダの「FD_rom_ROPOKO.BIN」を2764等のROMに焼き、MZ-80K_SDの通常のROMと交換します。
 
+　SDカードに「ロポコ」プログラムのMZTファイルを保存し、MZ-80K_SDに装着します。
+
 ## 使い方
 　MZ-80K_SDをSDモードに切り替えてロポコを起動します。
 
@@ -17,6 +19,8 @@
 ![CMTモード](https://github.com/yanataka60/MZ-80K_SD_ROPOKO/blob/main/JPEG/%E3%83%AD%E3%83%9D%E3%82%B3%E3%83%A2%E3%83%BC%E3%83%89(CMT%E3%83%A2%E3%83%BC%E3%83%89).JPG)
 
 　後は、ロポコの説明書に従ってセーブ・ロードを行います。
+
+　セーブデータはファイル名「ROPOKO.MZT」で保存されます。
 
 　ロポコを遊び終わったらMZ-80K_SDをSDモードに戻すのを忘れないように。
 
