@@ -147,6 +147,7 @@ MSG99:
 		
 ;*********************** 0436H MONITOR ライト インフォメーション代替処理 ************
 MSHED:
+		DI
 		PUSH	DE
 		PUSH	BC
 		PUSH	HL
@@ -195,6 +196,7 @@ MSH3:	LD		A,(HL)     ;インフォメーション ブロック送信
 
 ;******************** 0475H MONITOR ライト データ代替処理 **********************
 MSDAT:
+		DI
 ;MZTファイル「ROPOKO.MZT」に保存
 		CALL	MSHED
 
@@ -231,6 +233,7 @@ MSD1:	LD		A,(HL)
 
 ;************************** 04D8H MONITOR リード インフォメーション代替処理 *****************
 MLHED:
+		DI
 		PUSH	DE
 		PUSH	BC
 		PUSH	HL
@@ -277,6 +280,7 @@ MLH5:	CALL	RCVBYTE    ;読みだされたインフォメーションブロックを空受信
 
 ;**************************** 04F8H MONITOR リード データ代替処理 ********************
 MLDAT:
+		DI
 ;MZTファイル「ROPOKO.MZT」を選択
 		CALL	MLHED
 		CALL	LETLN
@@ -318,10 +322,11 @@ MLDAT:
 
 ;************************** 0588H VRFY CMT ベリファイ代替処理 *******************
 MVRFY:
-			PUSH	DE
-			PUSH	BC
-			PUSH	HL
-			JP	058CH
+		DI
+		PUSH	DE
+		PUSH	BC
+		PUSH	HL
+		JP	058CH
 
 ;******* 代替処理用コマンドコード送信 (IN:A コマンドコード) **********
 MCMD:
